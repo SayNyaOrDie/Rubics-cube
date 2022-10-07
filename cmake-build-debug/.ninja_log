@@ -1,0 +1,11 @@
+# ninja log v5
+16	824	6868772454606954	CMakeFiles/RubikCube.dir/SmallCube.cpp.obj	834caaa13583fbdd
+0	1023	6868772456587229	CMakeFiles/RubikCube.dir/main.cpp.obj	88381765531f54af
+5	1227	6868772458635257	CMakeFiles/RubikCube.dir/Assemble.cpp.obj	8db79b0d1e437f99
+10	1252	6868772458878019	CMakeFiles/RubikCube.dir/RubikCube.cpp.obj	4247809d753bc178
+1253	1434	6868772460667803	RubikCube.exe	679ecc9fc11e380
+17	831	6868779189567128	CMakeFiles/RubikCube.dir/SmallCube.cpp.obj	834caaa13583fbdd
+3	1024	6868779191488923	CMakeFiles/RubikCube.dir/main.cpp.obj	88381765531f54af
+8	1232	6868779193569284	CMakeFiles/RubikCube.dir/Assemble.cpp.obj	8db79b0d1e437f99
+13	1260	6868779193851526	CMakeFiles/RubikCube.dir/RubikCube.cpp.obj	4247809d753bc178
+1260	1448	6868779195689494	RubikCube.exe	679ecc9fc11e380
